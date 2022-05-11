@@ -3,7 +3,7 @@
 <h1 align = "justify"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Chrystian.</h1>
 <p align = "justify"><h2>FullStack Developer and Tech Lead, Coffee lover, Serverless and Blockchain Enthusiast.</h2></p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chrystian-santos-090282145/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/chrystian.santos/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chrystian-santos-090282145/) <a href = "chrysmatheus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/chrystian.santos/)
 
 
 ## 🚀💻 Technologies & Tools
@@ -29,6 +29,8 @@
 
 
 ## ⚡ GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=chrysmatheus&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrysmatheus&hide=TeX&layout=compact)
+ <div>
+    <a href="https://github.com/chrysmatheus">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrysmatheus&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysmatheus&hide=TeX&layout=compact&theme=dracula"/>
+</div>
