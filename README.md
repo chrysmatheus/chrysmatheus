@@ -1,7 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=chrysmatheus" alt="chrysmatheus" /></p>
 
 <h1 align = "justify"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Chrystian.</h1>
-<p align = "justify"><h2>FullStack Developer and Tech Lead, Coffee lover, NodeJs and Serverless fan.</h2></p>
+<p align = "justify"><h2>FullStack Developer and Tech Lead, Coffee lover, Serverless and Blockchain Enthusiast.</h2></p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chrystian-santos-090282145/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/chrystian.santos/)
 
