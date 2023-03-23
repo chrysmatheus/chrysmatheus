@@ -14,6 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -46,5 +47,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrysmatheus&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysmatheus&hide=TeX&layout=compact&theme=dracula"/>
     <img height="180em" src="https://github-profile-trophy.vercel.app/?username=chrysmatheus&theme=dracula"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?username=chrysmatheus&theme=dracula"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrysmatheus&theme=dracula&hide_border=true"/>
 </div>
