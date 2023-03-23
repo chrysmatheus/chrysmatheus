@@ -49,5 +49,4 @@
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrysmatheus&theme=dracula"/> 
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chrysmatheus&theme=dracula"/>
     <img height="180em" src="https://github-profile-trophy.vercel.app/?username=chrysmatheus&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysmatheus&theme=dracula"/>
 </div>
