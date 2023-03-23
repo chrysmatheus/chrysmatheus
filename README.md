@@ -47,5 +47,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrysmatheus&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysmatheus&hide=TeX&layout=compact&theme=dracula"/>
     <img height="180em" src="https://github-profile-trophy.vercel.app/?username=chrysmatheus&theme=dracula"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrysmatheus&theme=dracula&hide_border=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chrysmatheus&theme=dracula"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrysmatheus&theme=dracula"/> 
 </div>
